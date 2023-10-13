@@ -1,10 +1,9 @@
 
 ![IMG_3706](https://github.com/ConnorsGithubv1/ConnorsGithubv1/assets/44376959/5832a41b-97b0-4e0b-8d69-97e44898a9f2)
-            [![ConnorsGithubv1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorsGithubv1)](https://github.com/ConnorsGithubv1/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ConnorsGithubv1/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/ConnorsGithubv1/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 <!--
