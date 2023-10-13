@@ -2,10 +2,10 @@
 ![2](https://github.com/ConnorsGithubv1/ConnorsGithubv1/assets/44376959/2ba47b2e-2354-43f7-878b-85d0b5a41ad4)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ConnorsGithubv1" />
+  <img height=200 align="center" src="https://github-readme-stats-mu-two-81.vercel.app/api?username=ConnorsGithubv1" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
+  <img height=200 align="center" src="https://github-readme-stats-mu-two-81.vercel.app/api/top-langs?username=ConnorsGithubv1&layout=compact&langs_count=8&card_width=320" />
 </a>
 <!--
 **ConnorsGithubv1/ConnorsGithubv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
