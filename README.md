@@ -1,5 +1,7 @@
 
-![IMG_3706](https://github.com/ConnorsGithubv1/ConnorsGithubv1/assets/44376959/b7532fa7-0db7-43e2-bdbc-9fe66915fea9)
+![IMG_3706](https://github.com/ConnorsGithubv1/ConnorsGithubv1/assets/44376959/78423b0d-c786-4350-a30a-94744d1054ec)
+
+
 <a href="https://github.com/ConnorsGithubv1/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ConnorsGithubv1" />
 </a>
