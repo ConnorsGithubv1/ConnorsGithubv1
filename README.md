@@ -1,5 +1,6 @@
-![IMG_3706](https://github.com/ConnorsGithubv1/ConnorsGithubv1/assets/44376959/0a8955cd-b8ca-4f5d-a885-c4fa895e264b)
-Connor the Bug Hunter
+
+![IMG_3706](https://github.com/ConnorsGithubv1/ConnorsGithubv1/assets/44376959/7f8c56e9-26f0-4653-982c-283add4ec010)
+Bug Hunter
 <!--
 **ConnorsGithubv1/ConnorsGithubv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
